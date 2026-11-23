@@ -1,7 +1,6 @@
 # Hi there, I'm Muhammad Haziq Fitri 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haziq-fitri-1192471b3)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haziqf034@gmail.com)
 
 ### 🔧 Industrial Electronic Automation Student | PLC System Integration & Industry 4.0 Enthusiast
 
